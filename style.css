@@ -1,0 +1,254 @@
+.one {
+	background-image: url(modicate_temp/header-1.jpg);
+	height: 975;
+	width: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	/*    z-index: -99*/
+}
+.two {
+	background-image: url(modicate_temp/header-3.jpg);
+	height: 975;
+	width: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	/*    z-index: -99;*/
+}
+.three {
+	background-image: url(modicate_temp/header-4.jpg);
+	height: 975;
+	width: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	/*    z-index: -99;*/
+}
+.logo {
+	font-family: Pacifico, cursive !important;
+	font-size: 35px !important;
+	color: #343842 !important;
+	margin-right: 100 !important;
+}
+.nav-item {
+	font-size: 14px !important;
+	font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
+}
+.icon {
+	font-size: 22;
+	color: black;
+}
+.head {
+	border-bottom: 1px solid #8898a3 !important;
+}
+.navbar-nav {
+	width: 100%
+}
+.sl-txt {
+	position: relative !important;
+	top: 320 !important;
+}
+.h2 {
+	font-size: 21px !important;
+}
+.h1 {
+	font-size: 58px !important;
+	font-weight: 300 !important;
+}
+.h6 {
+	font-size: 30px !important;
+	font-weight: 200 !important;
+	margin-top: 35px !important;
+}
+.btn {
+	border-radius: 40px !important;
+	padding: 12 26 !important;
+}
+.sl-b {
+	border: 2px solid rgba(0, 0, 0, 0.3) !important;
+	margin: 50px 20px !important;
+	color: black;
+	z-index: 200 !important;
+}
+.sl-b a {
+	color: black !important;
+	text-decoration: none;
+}
+.sl-b:hover a {
+	color: white !important;
+	text-decoration: none;
+}
+.sl-b:hover {
+	color: white !important;
+	background-color: #007bff !important;
+	text-decoration: none;
+	border: none !important;
+	padding: 45px 19px
+}
+#offer {
+	height: 700;
+	padding: 75 0 90;
+	margin: 0 auto;
+	z-index: -2 !important;
+}
+.headings {
+	font-size: 47px;
+	font-weight: bold;
+	color: #34495E
+}
+.offer-txt {
+	font-size: 24px;
+	color: #546E7A;
+	max-width: 970;
+    width: auto;
+	padding: 0 12%;
+	margin: 0 auto;
+}
+.offer-pic {
+	margin: 50 auto;
+
+}
+#features {
+	height: auto;
+	background-color: #f5f5f5;
+	color: #546E7A;
+	z-index: 2;
+	position: relative;
+	padding: 75 0 90
+}
+.fea-txtc {
+	width: 300;
+	height: 250;
+	padding: 0 15;
+}
+.fea-ico {
+	color: #14a5eb;
+	font-size: 70
+}
+#about {
+	min-height:424;
+    height: auto;
+	padding: 75 0 90;
+}
+#abt-txt {
+	max-width: 470;
+    width: auto;
+	padding: 0 15px
+}
+#prog {
+	max-width: 579;
+    width: auto;
+	padding-top: 65;
+}
+.progress-bar {
+	background-image: linear-gradient(to right, #fd4081, #1498d9);
+	border-radius: 20px;
+}
+#number {
+	min-height: 176;
+    height: auto;
+	background-color: #2d344d;
+}
+.num {
+	font-size: 68;
+}
+.num-txt {
+	width: 300;
+	height: 176;
+	color: white;
+	padding: 24 15;
+	border-left: 1px solid #42495f;
+	border-right: 1px solid #42495f;
+}
+.image {
+	min-height:277;
+    height: auto;
+	padding: 75 0 90;
+}
+ul {
+	list-style-type: none;
+}
+.blog {
+	min-height: 721;
+    height: auto;
+	padding: 75 0 90;
+}
+.b-cont {
+	max-width: 360 !important;
+	height: 436;
+	margin: 50 10;
+    width: auto;
+
+}
+.blog-h {
+	font-size: 23;
+    max-width: 315;
+    width: auto;
+}
+#news {
+	background-image: url(modicate_temp/image-4.jpg);
+	height: 477;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100%;
+}
+.slides {
+	width: 380;
+	margin-right: 20px;
+	margin-top: 40px;
+}
+.test-img {
+	border-radius: 100%;
+	position: relative;
+	left: 35%;
+}
+.test {
+	min-height: 633;
+    height: auto
+	padding: 75 0 90;
+}
+.copyright {
+	background-color: #f5f5f5;
+	height: 65;
+	padding: 18 0 24;
+}
+.footer-content {
+	height: 285;
+	padding: 34 0 54;
+}
+.f-logo {
+	font-family: Pacifico, cursive !important;
+	font-size: 60px !important;
+	color: #343842 !important; 
+}
+.w-hea{
+    color: white;
+}
+.n-txt{
+    color: #a7b0b4;
+    max-width: 770px;
+    width: auto;
+    
+}
+
+.emaill{
+    background-color: rgba(255,255,255,0.2) !important;
+    color: white !important;
+    border-radius: 40px !important; 
+    width: 385px !important;
+    height: 50px !important;
+}
+
+::placeholder{
+    color: white !important;
+}
+.butto{
+    padding: 8 20 !important;
+}
+
+.b-txt{
+    max-width: 370;
+    width: auto
+}
